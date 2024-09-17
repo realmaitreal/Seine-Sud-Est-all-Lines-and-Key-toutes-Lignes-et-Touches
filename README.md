@@ -255,7 +255,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 ---
 
 📝 Note: 
-Some drivable bus services have no information on where to go in the game
+Some drivable bus services have no information on where to go in the game /
 Certaines services de bus praticables n'ont aucune information sur ou se diriger n'y sont dans le jeu
 
 ## 🥚 New Real Bus Lines / Lignes de Bus Réelles
