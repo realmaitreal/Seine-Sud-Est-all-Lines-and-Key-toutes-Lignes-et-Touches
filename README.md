@@ -16,7 +16,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 | Brake / Freiner | S |
 | Turn left / Tourner à gauche | Q |
 | Turn right / Tourner à droite | D |
-| Increase power / Augmenter la puissance | Shift |
+| Increase power / Augmenter la puissance (Doesn't apply to / Ne s'applique pas aux: Bus Heuliez GX337) | Shift |
 | Left signal / Clignotant Gauche | W |
 | Right signal / Clignotant Droite | C |
 | Hazard lights / Feux de détresse | X |
