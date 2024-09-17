@@ -96,16 +96,16 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 
 | Line / Ligne | Destination | Mission Code | Status / État |
 |--------------|-------------|--------------|---------------|
-| 142 | Bertollie RER | 142BR | 🔄 |
-| 142 | Neuilly-sous-Bois - Lyon | 142NL | 🔄 |
+| 142 | Bertollie RER | 142BR | ✅ |
+| 142 | Neuilly-sous-Bois - Lyon | 142NL | 🚧 |
 | 142 | Cherbourg | 142CH | 🚶 |
 | 142 | Les Clamarts | 142LC | 🚶 |
 | 142 | Pont de Narbérale dir. Bertollie | 142NPB | 🚶 |
 | 142 | Pont de Narbérale dir. Neuilly | 142NPN | 🚶 |
 | 142 | Port-Perret - Village | 142PR | 🚶 |
-| 142 | Pompidou | 142QP | 🔄 |
-| 142 | Basch | 142VB | 🔄 |
-| 142 | Les Vignes Métro | 142VN | 🔄 |
+| 142 | Pompidou | 142QP | 🚧 |
+| 142 | Basch | 142VB | 🚧 |
+| 142 | Les Vignes Métro | 142VN | 🚧 |
 
 | Line / Ligne | Destination | Mission Code | Status / État |
 |--------------|-------------|--------------|---------------|
@@ -236,7 +236,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 | 376 | Clemenceau | 376CL | 🔄 |
 | 376 | Louison Bobet | 376LB | 🔄 |
 | 376 | Pont de Narbérale | 376PN | 🚶/🚧 Dir. Cramain |
-| 376 | Résistance | 376RE | ✅/🔄 Dir. Cramain |
+| 376 | Résistance | 376RE | 🚶/🔄 Dir. Cramain |
 
 ### Night Bus Lines (Noctilien) / Lignes de Bus de Nuit (Noctilien)
 
