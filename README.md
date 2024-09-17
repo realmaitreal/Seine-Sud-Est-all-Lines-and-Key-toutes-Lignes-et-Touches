@@ -261,7 +261,7 @@ Certaines services de bus praticables n'ont aucune information sur ou se diriger
 ## 🥚 New Real Bus Lines / Lignes de Bus Réelles
 
 These are real lines programmed but not build, they are easter eggs. They only work on the IVECO URBANWAY.
-Ces lignes sont programmées mais pas encore construites dans le jeu. Elles fonctionnent uniquement sur l'IVECO URBANWAY.
+Ces lignes sont programmées mais ne sont pas construits, ce sont des easter eggs. Elles fonctionnent uniquement sur l'IVECO URBANWAY.
 
 | Line / Ligne | Destination | Mission Code |
 |--------------|-------------|--------------|
