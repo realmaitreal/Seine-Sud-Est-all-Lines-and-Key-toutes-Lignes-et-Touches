@@ -258,6 +258,8 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 Some drivable bus services have no information on where to go in the game /
 Certaines services de bus praticables n'ont aucune information sur ou se diriger n'y sont dans le jeu
 
+Les girouettes de la plupart des services en travaux ne sont pas programmés
+
 ## 🥚 New Real Bus Lines / Lignes de Bus Réelles
 
 These are real lines programmed but not build, they are easter eggs. They only work on the IVECO URBANWAY.
