@@ -8,7 +8,7 @@ This guide contains information such as keyboard shortcuts, weather vane keys, l
 This guide will be regularly updated. Contributions are always welcome!
 
 Ce guide sera régulièrement mis à jour. Les contributions sont toujours les bienvenues !
-## 🎮 Hotkeys / Raccourcis
+## 🎮 Hotkeys / Raccourcis (AZERTY)
 
 | Action | Key / Touche |
 |--------|--------------|
