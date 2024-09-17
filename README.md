@@ -32,7 +32,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 | Display / Affichage | Code |
 |---------------------|------|
 | 🚫 Broken / En panne | 60 |
-| 🚶 No passengers / Sans voyageurs | 61 |
+| 🚶 Not In Service / Sans voyageurs | 61 |
 | 🔧 Test vehicle / Voiture essai | 62 |
 | 🔠 Special service / Service spécial | 63 |
 | 👶 Children transport / Transport d'enfants | 64 |
