@@ -1,4 +1,4 @@
-# 🚌 Seine Sud Est Game Guide / Guide du Jeu Seine Sud Est
+# 🚌 Seine Sud Est Game Guide/Docs/Wiki / Guide/Doc/Wiki du Jeu Seine Sud Est
 Ce guide contient des informations comme les raccourcis claviers, les touches girouette, les états de ligne [...] pour le jeu [Roblox Seine-Sud-Est](https://rblx.games/6454843799), il est en anglais / français et au format markdown pour favoriser l'accessibilité du document
 
 This guide contains information such as keyboard shortcuts, weather vane keys, line states [...] for the game [Roblox Seine-Sud-Est](https://rblx.games/6454843799), it is in English / French and in markdown format to promote accessibility of the document
