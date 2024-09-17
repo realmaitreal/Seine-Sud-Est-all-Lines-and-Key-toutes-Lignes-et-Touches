@@ -274,6 +274,4 @@ Ces lignes sont programmées mais ne sont pas construits, ce sont des easter egg
 
 ---
 
-📝 Note: 
-Some drivable bus services have no information on where to go in the game
-Certaines services de bus praticables n'ont aucune information sur ou se diriger n'y sont dans le jeu
+⚠️ Ce guide est sous la [license MIT](LICENSE)
