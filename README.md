@@ -22,7 +22,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 | Hazard lights / Feux de détresse | X |
 | Forward gear / Marche avant | E |
 | Reverse gear / Marche arrière | A |
-| FAE | F |
+| FAE (Frein d'Arrêt d'Exploitation) | F |
 | Parking brake / Frein de park | P |
 | Doors / Portes | & (1), é (2), " (3), ' (4) |
 | Announcements / Annonces | è, _, ç, à |
