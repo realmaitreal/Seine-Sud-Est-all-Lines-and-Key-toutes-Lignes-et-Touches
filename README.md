@@ -298,7 +298,10 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 
 ## Line / Ligne ![1093934754543435806](https://github.com/user-attachments/assets/7df143fd-702d-4e8e-b649-e5cae6eb1133)
 
-**Status / État:** ❌ Les arrêts entre Pont de Narbérale et Jaurès - Poirée sont en construction. ⚠️ Une partie de la ligne circule sur de l'herbe pour cause de travaux.
+**Status / État:** 
+- ❌ Les arrêts entre Pont de Narbérale et Jaurès - Poirée sont en construction. 
+- ⚠️ Une partie de la ligne circule sur de l'herbe pour cause de travaux. 
+- 🔧 Les girouettes ne fonctionne pas.
 
 | Service | Code | Status / État |
 |---------|------|---------------|
