@@ -43,234 +43,360 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 | 🏆 Challenge bus | 69 |
 | 🥇 Golden bus / Bus d'or | 70 |
 
-## 🚍 Bus Lines / Lignes de Bus
+# 🚍 Bus Lines / Lignes de Bus
 
-### Line Status Legend / Légende des États de Ligne
+## Line / Ligne 134
 
-- ✅ Normal service / Service normal
-- 🚧 Under construction / En construction
-- 🚶 Partial service / Service partiel
-- 🔄 Detour / Déviation
+![1072190012814278697](https://github.com/user-attachments/assets/eb15b249-6ea4-460e-9b54-8bfa9e0d4935)
 
-### Bus's services / Service de BUS
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 134 | Bertollie RER | 134BR | ✅ |
-| 134 | Arlande Préfecture | 134AP | ✅ |
-| 134 | Dampierre - Grenelle | 134DG | 🚶 |
-| 134 | Général de Gaulle | 134GA | 🚶 |
-| 134 | Gpe Sco. Bergmann dir. Arlande | 134GBA | 🚶 |
-| 134 | Gpe Sco. Bergmann dir. Berthee | 134GBB | 🚶 |
-| 134 | Les Hauts d'Arlande | 134HD | 🚶 |
-| 134 | Henri Barbusse | 134BH | 🚶 |
-| 134 | Valmy - Europe | 134VE | 🚶 |
+**Status / État:** ✅ Normal service / Service normal
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 135 | Bertollie RER | 135BR | ✅ |
-| 135 | Bonneuil - Stensele | 135SB | 🚧 |
-| 135 | Bismarck - Courboules | 135BC | 🚧 |
-| 135 | Bd. National - Mahon | 135BN | 🚶 |
-| 135 | Berthéopôle dir. Bertollie | 135BPB | 🚶 |
-| 135 | Berthéopôle dir. Stensele | 135BPS | 🚶 |
-| 135 | Cramain - Uni. RER dir. Bertollie | 135CUB | 🚶 |
-| 135 | Cramain Univ. RER dir. Stensele | 135CUS | 🚶 |
-| 135 | La Vallée | 135LV | 🚶 |
-| 135 | Narbérale RER dir. Bertollie | 135NRB | 🚶 |
-| 135 | Narbérale RER dir. Stensele | 135NRS | 🚶 |
+**Video Guide / Guide Vidéo:** [How to drive Line 134 / Comment conduire la Ligne 134]
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 136 | Hauts d'Arlande | 136HA | 🚧 |
-| 136 | Neville - Centre | 136NC | 🚧 |
-| 136 | Jeanne Brousee | 136BRU | 🚧 |
-| 136 | Écu | 136EC | 🚧 |
-| 136 | La Régalle dir. Hauts d'Arlande | 136LRH | 🚧 |
-| 136 | La Régalle dir. Neville | 136LRN | 🚧 |
-| 136 | Marigny - Jardins - Métro dir. Hauts d'Arlande | 136MMH | 🚧 |
-| 136 | Marigny - Jardins - Métro dir. Neville | 136MMN | 🚧 |
-| 136 | Monceau | 136MN | 🚧 |
-| 136 | Neville - Saint-Armand | 136NSA | 🚧 |
-| 136 | Rue du Plateau | 136RP | 🚧 |
+### Services on this line / Services sur cette ligne:
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 142 | Bertollie RER | 142BR | ✅ |
-| 142 | Neuilly-sous-Bois - Lyon | 142NL | 🚧 |
-| 142 | Cherbourg | 142CH | 🚶 |
-| 142 | Les Clamarts | 142LC | 🚶 |
-| 142 | Pont de Narbérale dir. Bertollie | 142NPB | 🚶 |
-| 142 | Pont de Narbérale dir. Neuilly | 142NPN | 🚶 |
-| 142 | Port-Perret - Village | 142PR | 🚶 |
-| 142 | Pompidou | 142QP | 🚧 |
-| 142 | Basch | 142VB | 🚧 |
-| 142 | Les Vignes Métro | 142VN | 🚧 |
+1. **Bertollie RER** (134BR) - ✅
+2. **Arlande Préfecture** (134AP) - ✅
+3. **Dampierre - Grenelle** (134DG) - 🚶
+4. **Général de Gaulle** (134GA) - 🚶
+5. **Gpe Sco. Bergmann dir. Arlande** (134GBA) - 🚶
+6. **Gpe Sco. Bergmann dir. Berthee** (134GBB) - 🚶
+7. **Les Hauts d'Arlande** (134HD) - 🚶
+8. **Henri Barbusse** (134BH) - 🚶
+9. **Valmy - Europe** (134VE) - 🚶
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 149 | Bertollie RER | 149BR | 🔄 |
-| 149 | Eglise du Petit-Passy | 149PE | 🔄 |
-| 149 | Allée Royale | 149AR | 🚶 |
-| 149 | Charcot | 149BI | 🔄 |
-| 149 | Général de Gaulle | 149DG | 🚶 |
-| 149 | Pasteur | 149DH | 🚶 |
-| 149 | Rue de Bréon | 149RB | 🚶 |
+## Line / Ligne 135
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 218 | Créteil - Valenton | 218CV | 🚧 |
-| 218 | Bertollie RER | 218BR | 🚧 |
-| 218 | Amboile - Ville dir. Bertollie | 218AVB | 🚧 |
-| 218 | Amboile - Ville dir. Créteil | 218AVV | 🚧 |
-| 218 | Marché - Charles de Gaulle | 218GM | 🚧 |
-| 218 | Mairie de Centes dir. Bertollie | 218MCB | 🚧 |
-| 218 | Mairie de Centes dir. Créteil | 218MCV | 🚧 |
-| 218 | Porte de la Seine dir. Bertollie | 218PSB | 🚧 |
-| 218 | Porte de la Seine dir. Créteil | 218PSV | 🚧 |
-| 218 | Rostropovitch | 218RO | 🚧 |
+![996933728175652945](https://github.com/user-attachments/assets/8c445f6d-f4f2-4335-a272-a50c10fac167)
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 224 | Andoire RER | 224AR | 🚧 |
-| 224 | Maseval - Bd Militaire | 224BM | 🚧 |
-| 224 | Andoire - Gpe Cioran | 224AC | 🚧 |
-| 224 | Collège Lucie Aubrac dir. Andoire | 224ACA | 🚧 |
-| 224 | Collège Lucie Aubrac dir. Maseval | 224ACM | 🚧 |
-| 224 | Mairie d'Andoire dir. Andoire | 224HVA | 🚧 |
-| 224 | Mairie d'Andoire dir. Maseval | 224HVM | 🚧 |
-| 224 | Lycée Agricole | 224LA | 🚧 |
-| 224 | Liberté | 224LI | 🚧 |
-| 224 | Zouaq dir. Andoire | 224ZQA | 🚧 |
-| 224 | Zouaq dir. Maseval | 224ZQM | 🚧 |
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 236 | Marigny - Intérieur | 236CI | 🚧 |
-| 236 | Marigny - Extérieur | 236CE | 🚧 |
-| 236 | Ténine dir. Intérieur | 236TNI | 🚧 |
-| 236 | Ténine dir. Extérieur | 236TNE | 🚧 |
-| 236 | Pointe d'Andoire dir. Intérieur | 236PAI | 🚧 |
-| 236 | Pointe d'Andoire dir. Extérieur | 236PAE | 🚧 |
-| 236 | Carrefour République dir. Intérieur | 236CRI | 🚧 |
-| 236 | Carrefour République dir. Extérieur | 236CRE | 🚧 |
-| 236 | Deux Communes dir. Intérieur | 236DCI | 🚧 |
-| 236 | Deux Communes dir. Extérieur | 236DCE | 🚧 |
-| 236 | Stade Chéron | 236SC | 🚧 |
+**Status / État:** ✅ Normal service / Service normal (with some routes under construction / avec certains itinéraires en construction)
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 242 | Terroirs de France | 242TF | 🚧 |
-| 242 | Cramain - Université - RER | 242CU | 🚧 |
-| 242 | Cramain - Clemenceau | 242CLT | 🚧 |
-| 242 | Ludwig Ahgren | 242LW | 🚧 |
-| 242 | Place de Lyon | 242LY | 🚧 |
-| 242 | Parc de Cramain - Métro | 242PC | 🚧 |
-| 242 | Breteuil - ZI - Poncelet dir. Cramain | 242ZIC | 🚧 |
-| 242 | Breteuil - ZI - Poncelet dir. Terroirs | 242ZIT | 🚧 |
+**Video Guide / Guide Vidéo:** [How to drive Line 135 / Comment conduire la Ligne 135]
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 257 | Rosenberg | 257BR | ✅ |
-| 257 | Les Hauts d'Arlande | 257HA | ✅ |
-| 257 | Bd. National - Mahon | 257BM | 🚶 |
-| 257 | Cramain - Uni. RER | 257CU | 🚶 |
-| 257 | Fédération | 257FE | 🚶 |
-| 257 | Jules Bobillot dir. Hauts d'Arlande | 257JBA | 🚶 |
-| 257 | Jules Bobillot dir. Rosenberg | 257JBB | 🚶 |
-| 257 | Pont d'Austerlitz dir. Hauts d'Arlande | 257PZA | 🚶 |
-| 257 | Pont d'Austerlitz dir. Rosenberg | 257PZB | 🚶 |
-| 257 | Résistance - Carnot | 257RC | 🚶 |
-| 257 | Résistance - J-Curie | 257RN | 🚶 |
+### Services on this line / Services sur cette ligne:
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 265 | Bertollie RER | 265BR | 🔄 |
-| 265 | Boissy-Saint-Léger RER | 265SL | 🚧 |
-| 265 | Bismarck - Courboules dir. Bertollie | 265BCG | 🚧 |
-| 265 | Bismarck - Courboules dir. Boissy | 265BCL | 🔄 |
-| 265 | Coeur de Berthée | 265BM | 🚧 |
-| 265 | Courboules - Tilsitt | 265CT | 🚧 |
+1. **Bertollie RER** (135BR) - ✅
+2. **Bonneuil - Stensele** (135SB) - 🚧
+3. **Bismarck - Courboules** (135BC) - 🚧
+4. **Bd. National - Mahon** (135BN) - 🚶
+5. **Berthéopôle dir. Bertollie** (135BPB) - 🚶
+6. **Berthéopôle dir. Stensele** (135BPS) - 🚶
+7. **Cramain - Uni. RER dir. Bertollie** (135CUB) - 🚶
+8. **Cramain Univ. RER dir. Stensele** (135CUS) - 🚶
+9. **La Vallée** (135LV) - 🚶
+10. **Narbérale RER dir. Bertollie** (135NRB) - 🚶
+11. **Narbérale RER dir. Stensele** (135NRS) - 🚶
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 298 | Marigny - Buzenval | 298MGA / 298MGB / 298MGS | 🚧 |
-| 298a | Passy - Dhalenne | 298DH | 🚧 |
-| 298b | Andoire - Liberté | 298AL | 🚧 |
-| 298s | Collège Lucie Aubrac | 298CA | 🚧 |
+## Line / Ligne 136
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 315 | Bertoille RER | 315BR | ✅ |
-| 315 | Bréon - Ecole Normale | 315EC | 🚧 |
-| 315 | Lycée Christophe Coulomb | 315LYC | ✅ |
-| 315 | Aturéen - Maud'Huy | 315AM | 🚧 |
-| 315 | Bonaparte - Buci dir. Bertoille | 315BUB | 🚧 |
-| 315 | Bonaparte - Buci dir. Bréon | 315BUE | 🚧 |
-| 315 | Bréon - Ville RER | 315BVE | 🚧 |
-| 315 | Houssaye - De Gaulle | 315CG | ✅ |
-| 315 | Estivallière | 315ES | ✅ |
+![996933729744330784](https://github.com/user-attachments/assets/c3eeb9a1-5bda-4609-a1ed-a779b58c21a8)
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 316 | Bismark Courboules | 316BC | ✅ |
-| 316 | Rue de Cherbourg | 316NC | ✅ |
-| 316 | Cherbourg par Bergeracc | 316NCB | ✅ |
-| 316 | Cramain Uni. RER dir. Berthée | 316CUC | 🚶 |
-| 316 | Cramain - Univ. RER dir. Narbérale | 316CUN | 🚶 |
-| 316 | Mairie de Narbérale | 316MN | 🚶 |
-| 316 | Place Nationale | 316PN | 🚶 |
-| 316 | Pyrénées | 316PY | 🚶 |
-| 316 | Uni. RER - République | 316UR | 🚶 |
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 371 | Portvaillant | 371SP | ✅ |
-| 371 | Alises - Houdan | 371AH | 🚧 |
-| 371 | Nanteuil RER | 371NRA | ✅ |
+**Status / État:** 🚧 Under construction / En construction
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| 376 | Cramain - Uni. RER | 376CU | 🔄 |
-| 376 | Le Plessin-Mendinel RER | 376PM | 🔄 |
-| 376 | Clemenceau | 376CL | 🔄 |
-| 376 | Louison Bobet | 376LB | 🔄 |
-| 376 | Pont de Narbérale | 376PN | 🚶/🚧 Dir. Cramain |
-| 376 | Résistance | 376RE | 🚶/🔄 Dir. Cramain |
+**Video Guide / Guide Vidéo:** [How to drive Line 136 / Comment conduire la Ligne 136]
 
-### Night Bus Lines (Noctilien) / Lignes de Bus de Nuit (Noctilien)
+### Services on this line / Services sur cette ligne:
 
-| Line / Ligne | Destination | Mission Code | Status / État |
-|--------------|-------------|--------------|---------------|
-| N72 | Arlande Préfecture | 787PS | ✅ |
-| N72 | Créteil Préfecture | 787CPV | 🚧 |
-| N72 | Bertollie RER dir. Créteil | 787BRC | ✅ |
-| N76 | Le Plessins Mendinel RER | 786LP | ✅ |
-| N76 | Boissy Saint Léger RER | 786BL | 🚧 |
-| N76 | Bertollie RER | 786BRP | ✅ |
-| N76 | Rosenberg | 786RB | ✅ |
+1. **Hauts d'Arlande** (136HA) - 🚧
+2. **Neville - Centre** (136NC) - 🚧
+3. **Jeanne Brousee** (136BRU) - 🚧
+4. **Écu** (136EC) - 🚧
+5. **La Régalle dir. Hauts d'Arlande** (136LRH) - 🚧
+6. **La Régalle dir. Neville** (136LRN) - 🚧
+7. **Marigny - Jardins - Métro dir. Hauts d'Arlande** (136MMH) - 🚧
+8. **Marigny - Jardins - Métro dir. Neville** (136MMN) - 🚧
+9. **Monceau** (136MN) - 🚧
+10. **Neville - Saint-Armand** (136NSA) - 🚧
+11. **Rue du Plateau** (136RP) - 🚧
 
-⚠️ Note: N76 codes now start with "786" instead of "N76"
+## Line / Ligne 142
 
----
+![919108162206982164](https://github.com/user-attachments/assets/8f1a821f-adaf-4e6c-8724-dd315e877f7c)
 
-📝 Note: 
-Some drivable bus services have no information on where to go in the game /
-Certaines services de bus praticables n'ont aucune information sur ou se diriger n'y sont dans le jeu
 
-Les girouettes de la plupart des services en travaux ne sont pas programmés
+**Status / État:** ✅ Normal service / Service normal (with some routes under construction / avec certains itinéraires en construction)
+
+**Video Guide / Guide Vidéo:** [How to drive Line 142 / Comment conduire la Ligne 142]
+
+### Services on this line / Services sur cette ligne:
+
+1. **Bertollie RER** (142BR) - ✅
+2. **Neuilly-sous-Bois - Lyon** (142NL) - 🚧
+3. **Cherbourg** (142CH) - 🚶
+4. **Les Clamarts** (142LC) - 🚶
+5. **Pont de Narbérale dir. Bertollie** (142NPB) - 🚶
+6. **Pont de Narbérale dir. Neuilly** (142NPN) - 🚶
+7. **Port-Perret - Village** (142PR) - 🚶
+8. **Pompidou** (142QP) - 🚧
+9. **Basch** (142VB) - 🚧
+10. **Les Vignes Métro** (142VN) - 🚧
+
+## Line / Ligne 149
+
+![1207095109426872420](https://github.com/user-attachments/assets/dda0fce1-3ec2-4100-ab1f-6b244649eceb)
+
+
+**Status / État:** 🔄 Detour / Déviation
+
+**Video Guide / Guide Vidéo:** [How to drive Line 149 / Comment conduire la Ligne 149]
+
+### Services on this line / Services sur cette ligne:
+
+1. **Bertollie RER** (149BR) - 🔄
+2. **Eglise du Petit-Passy** (149PE) - 🔄
+3. **Allée Royale** (149AR) - 🚶
+4. **Charcot** (149BI) - 🔄
+5. **Général de Gaulle** (149DG) - 🚶
+6. **Pasteur** (149DH) - 🚶
+7. **Rue de Bréon** (149RB) - 🚶
+
+## Line / Ligne ![947972356331159552](https://github.com/user-attachments/assets/d388d408-3d3c-4d51-87cc-695eda6e87bf)
+
+
+**Status / État:** 🚧 Under construction / En construction
+
+**Video Guide / Guide Vidéo:** [How to drive Line 218 / Comment conduire la Ligne 218]
+
+### Services on this line / Services sur cette ligne:
+
+1. **Créteil - Valenton** (218CV) - 🚧
+2. **Bertollie RER** (218BR) - 🚧
+3. **Amboile - Ville dir. Bertollie** (218AVB) - 🚧
+4. **Amboile - Ville dir. Créteil** (218AVV) - 🚧
+5. **Marché - Charles de Gaulle** (218GM) - 🚧
+6. **Mairie de Centes dir. Bertollie** (218MCB) - 🚧
+7. **Mairie de Centes dir. Créteil** (218MCV) - 🚧
+8. **Porte de la Seine dir. Bertollie** (218PSB) - 🚧
+9. **Porte de la Seine dir. Créteil** (218PSV) - 🚧
+10. **Rostropovitch** (218RO) - 🚧
+
+## Line / Ligne ![1025521150756921425](https://github.com/user-attachments/assets/6bfd09b6-e032-461e-9612-598431d2b553)
+
+
+**Status / État:** 🚧 Under construction / En construction
+
+**Video Guide / Guide Vidéo:** [How to drive Line 224 / Comment conduire la Ligne 224]
+
+### Services on this line / Services sur cette ligne:
+
+1. **Andoire RER** (224AR) - 🚧
+2. **Maseval - Bd Militaire** (224BM) - 🚧
+3. **Andoire - Gpe Cioran** (224AC) - 🚧
+4. **Collège Lucie Aubrac dir. Andoire** (224ACA) - 🚧
+5. **Collège Lucie Aubrac dir. Maseval** (224ACM) - 🚧
+6. **Mairie d'Andoire dir. Andoire** (224HVA) - 🚧
+7. **Mairie d'Andoire dir. Maseval** (224HVM) - 🚧
+8. **Lycée Agricole** (224LA) - 🚧
+9. **Liberté** (224LI) - 🚧
+10. **Zouaq dir. Andoire** (224ZQA) - 🚧
+11. **Zouaq dir. Maseval** (224ZQM) - 🚧
+
+## Line / Ligne ![996933731208138792](https://github.com/user-attachments/assets/ca323901-e7c6-4bcf-bfbd-e54ab38d383e)
+
+**Status / État:** 🚧 Under construction / En construction
+
+**Video Guide / Guide Vidéo:** [How to drive Line 236 / Comment conduire la Ligne 236]
+
+### Services on this line / Services sur cette ligne:
+
+1. **Marigny - Intérieur** (236CI) - 🚧
+2. **Marigny - Extérieur** (236CE) - 🚧
+3. **Ténine dir. Intérieur** (236TNI) - 🚧
+4. **Ténine dir. Extérieur** (236TNE) - 🚧
+5. **Pointe d'Andoire dir. Intérieur** (236PAI) - 🚧
+6. **Pointe d'Andoire dir. Extérieur** (236PAE) - 🚧
+7. **Carrefour République dir. Intérieur** (236CRI) - 🚧
+8. **Carrefour République dir. Extérieur** (236CRE) - 🚧
+9. **Deux Communes dir. Intérieur** (236DCI) - 🚧
+10. **Deux Communes dir. Extérieur** (236DCE) - 🚧
+11. **Stade Chéron** (236SC) - 🚧
+
+## Line / Ligne ![933116174332485682](https://github.com/user-attachments/assets/19694c91-8242-4a5c-b990-43f73af410e3)
+
+**Status / État:** 🚧 Under construction / En construction
+
+**Video Guide / Guide Vidéo:** [How to drive Line 242 / Comment conduire la Ligne 242]
+
+### Services on this line / Services sur cette ligne:
+
+1. **Terroirs de France** (242TF) - 🚧
+2. **Cramain - Université - RER** (242CU) - 🚧
+3. **Cramain - Clemenceau** (242CLT) - 🚧
+4. **Ludwig Ahgren** (242LW) - 🚧
+5. **Place de Lyon** (242LY) - 🚧
+6. **Parc de Cramain - Métro** (242PC) - 🚧
+7. **Breteuil - ZI - Poncelet dir. Cramain** (242ZIC) - 🚧
+8. **Breteuil - ZI - Poncelet dir. Terroirs** (242ZIT) - 🚧
+
+## Line / Ligne 257
+
+![HY30Qaz](https://github.com/user-attachments/assets/d6a1f39e-0a1e-40d4-b284-1bcd900c94f4)
+
+**Status / État:** ✅ Normal service / Service normal (with some routes in partial service / avec certains itinéraires en service partiel)
+
+**Video Guide / Guide Vidéo:** [How to drive Line 257 / Comment conduire la Ligne 257]
+
+### Services on this line / Services sur cette ligne:
+
+1. **Rosenberg** (257BR) - ✅
+2. **Les Hauts d'Arlande** (257HA) - ✅
+3. **Bd. National - Mahon** (257BM) - 🚶
+4. **Cramain - Uni. RER** (257CU) - 🚶
+5. **Fédération** (257FE) - 🚶
+6. **Jules Bobillot dir. Hauts d'Arlande** (257JBA) - 🚶
+7. **Jules Bobillot dir. Rosenberg** (257JBB) - 🚶
+8. **Pont d'Austerlitz dir. Hauts d'Arlande** (257PZA) - 🚶
+9. **Pont d'Austerlitz dir. Rosenberg** (257PZB) - 🚶
+10. **Résistance - Carnot** (257RC) - 🚶
+11. **Résistance - J-Curie** (257RN) - 🚶
+
+## Line / Ligne ![1207095111276691476](https://github.com/user-attachments/assets/6a97cb21-3230-4a8d-ba99-640c4debb561)
+
+**Status / État:** 🔄 Detour / Déviation (with some routes under construction / avec certains itinéraires en construction)
+
+**Video Guide / Guide Vidéo:** [How to drive Line 265 / Comment conduire la Ligne 265]
+
+### Services on this line / Services sur cette ligne:
+
+1. **Bertollie RER** (265BR) - 🔄
+2. **Boissy-Saint-Léger RER** (265SL) - 🚧
+3. **Bismarck - Courboules dir. Bertollie** (265BCG) - 🚧
+4. **Bismarck - Courboules dir. Boissy** (265BCL) - 🔄
+5. **Coeur de Berthée** (265BM) - 🚧
+6. **Courboules - Tilsitt** (265CT) - 🚧
+
+## Line / Ligne 298
+
+![Line 298 Logo/Plan]
+
+**Status / État:** 🚧 Under construction / En construction
+
+**Video Guide / Guide Vidéo:** [How to drive Line 298 / Comment conduire la Ligne 298]
+
+### Services on this line / Services sur cette ligne:
+
+1. **Marigny - Buzenval** (298MGA / 298MGB / 298MGS) - 🚧
+2. **Passy - Dhalenne** (298DH) - 🚧 (298a)
+3. **Andoire - Liberté** (298AL) - 🚧 (298b)
+4. **Collège Lucie Aubrac** (298CA) - 🚧 (298s)
+
+## Line / Ligne 315
+
+![mXMO42k](https://github.com/user-attachments/assets/6c64ba24-cbe1-4717-8e79-38ee4f2b7656)
+
+**Status / État:** ✅ Normal service / Service normal (with some routes under construction / avec certains itinéraires en construction)
+
+**Video Guide / Guide Vidéo:** [How to drive Line 315 / Comment conduire la Ligne 315]
+
+### Services on this line / Services sur cette ligne:
+
+1. **Bertoille RER** (315BR) - ✅
+2. **Bréon - Ecole Normale** (315EC) - 🚧
+3. **Lycée Christophe Coulomb** (315LYC) - ✅
+4. **Aturéen - Maud'Huy** (315AM) - 🚧
+5. **Bonaparte - Buci dir. Bertoille** (315BUB) - 🚧
+6. **Bonaparte - Buci dir. Bréon** (315BUE) - 🚧
+7. **Bréon - Ville RER** (315BVE) - 🚧
+8. **Houssaye - De Gaulle** (315CG) - ✅
+9. **Estivallière** (315ES) - ✅
+
+## Line / Ligne 316
+
+![W7EIeVx](https://github.com/user-attachments/assets/484f3baa-65f5-4562-9dee-0741f09f6291)
+
+**Status / État:** ✅ Normal service / Service normal (with some routes in partial service / avec certains itinéraires en service partiel)
+
+**Video Guide / Guide Vidéo:** [How to drive Line 316 / Comment conduire la Ligne 316]
+
+### Services on this line / Services sur cette ligne:
+
+1. **Bismark Courboules** (316BC) - ✅
+2. **Rue de Cherbourg** (316NC) - ✅
+3. **Cherbourg par Bergeracc** (316NCB) - ✅
+4. **Cramain Uni. RER dir. Berthée** (316CUC) - 🚶
+5. **Cramain - Univ. RER dir. Narbérale** (316CUN) - 🚶
+6. **Mairie de Narbérale** (316MN) - 🚶
+7. **Place Nationale** (316PN) - 🚶
+8. **Pyrénées** (316PY) - 🚶
+9. **Uni. RER - République** (316UR) - 🚶
+
+## Line / Ligne ![920403856863686746](https://github.com/user-attachments/assets/5a284e55-3565-4e84-b3b1-0c0592eebf0c)
+
+**Status / État:** ✅ Normal service / Service normal (with some routes under construction / avec certains itinéraires en construction)
+
+**Video Guide / Guide Vidéo:** [How to drive Line 371 / Comment conduire la Ligne 371]
+
+### Services on this line / Services sur cette ligne:
+
+1. **Portvaillant** (371SP) - ✅
+2. **Alises - Houdan** (371AH) - 🚧
+3. **Nanteuil RER** (371NRA) - ✅
+
+## Line / Ligne ![1093934754543435806](https://github.com/user-attachments/assets/7df143fd-702d-4e8e-b649-e5cae6eb1133)
+
+**Status / État:** 🔄 Detour / Déviation (with some routes in partial service / avec certains itinéraires en service partiel)
+
+**Video Guide / Guide Vidéo:** [How to drive Line 376 / Comment conduire la Ligne 376]
+
+### Services on this line / Services sur cette ligne:
+
+1. **Cramain - Uni. RER** (376CU) - 🔄
+2. **Le Plessin-Mendinel RER** (376PM) - 🔄
+3. **Clemenceau** (376CL) - 🔄
+4. **Louison Bobet** (376LB) - 🔄
+5. **Pont de Narbérale** (376PN) - 🚶/🚧 Dir. Cramain
+6. **Résistance** (376RE) - 🚶/🔄 Dir. Cramain
+
+## Night Bus Lines (Noctilien) / Lignes de Bus de Nuit (Noctilien)
+
+### Line / Ligne ![996933734165127229](https://github.com/user-attachments/assets/d5edb8af-0934-4c4f-88b8-26116715e2ad)
+
+**Status / État:** ✅ Normal service / Service normal (with some routes under construction / avec certains itinéraires en construction)
+
+**Video Guide / Guide Vidéo:** [How to drive Line N72 / Comment conduire la Ligne N72]
+
+#### Services on this line / Services sur cette ligne:
+
+1. **Arlande Préfecture** (787PS) - ✅
+2. **Créteil Préfecture** (787CPV) - 🚧
+3. **Bertollie RER dir. Créteil** (787BRC) - ✅
+
+### Line / Ligne ![996933732881682464](https://github.com/user-attachments/assets/785d8da8-cc5e-4a6a-8be2-bf9f88f690aa)
+
+**Status / État:** ✅ Normal service / Service normal (with some routes under construction / avec certains itinéraires en construction)
+
+**Video Guide / Guide Vidéo:** [How to drive Line N76 / Comment conduire la Ligne N76]
+
+#### Services on this line / Services sur cette ligne:
+
+1. **Le Plessins Mendinel RER** (786LP) - ✅
+2. **Boissy Saint Léger RER** (786BL) - 🚧
+3. **Bertollie RER** (786BRP) - ✅
+4. **Rosenberg** (786RB) - ✅
+
+⚠️ Note: N76 codes now start with "786" instead of "N76" / Les codes N76 commencent maintenant par "786" au lieu de "N76"
 
 ## 🥚 New Real Bus Lines / Lignes de Bus Réelles
 
-These are real lines programmed but not build, they are easter eggs. They only work on the IVECO URBANWAY.
-Ces lignes sont programmées mais ne sont pas construits, ce sont des easter eggs. Elles fonctionnent uniquement sur l'IVECO URBANWAY.
+These are real lines programmed but not built, they are easter eggs. They only work on the IVECO URBANWAY.
+Ce sont des lignes réelles programmées mais non construites, ce sont des easter eggs. Elles fonctionnent uniquement sur l'IVECO URBANWAY.
 
-| Line / Ligne | Destination | Mission Code |
-|--------------|-------------|--------------|
-| 299 | Morangis-Pl. L. Boilleau | 299MB |
-| 299 | Porte d'Orléans | 299PO |
-| 393 | Thiais - Résistance | 393TR |
-| 393 | Sucy - Bonneuil <RER> | 393SB |
+### Line / Ligne 299
+
+#### Services on this line / Services sur cette ligne:
+
+1. **Morangis-Pl. L. Boilleau** (299MB)
+2. **Porte d'Orléans** (299PO)
+
+### Line / Ligne 393
+
+#### Services on this line / Services sur cette ligne:
+
+1. **Thiais - Résistance** (393TR)
+2. **Sucy - Bonneuil <RER>** (393SB)
 
 ---
 
