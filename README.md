@@ -72,8 +72,8 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 | Service | Code | Status / État |
 |---------|------|---------------|
 | Bertollie RER | 135BR | ✅ |
-| Bonneuil - Stensele | 135SB | 🚧 |
-| Bismarck - Courboules | 135BC | 🚧 |
+| Bonneuil - Stensele | 135SB | 🚧 Service disponible fin 2024 environ |
+| Bismarck - Courboules | 135BC | 🟨 Girouette non fonctionnel, utilisez Code Bonneuil - Stensele ou Berthéopôle dir. Stensele |
 | Bd. National - Mahon | 135BN | 🚶 |
 | Berthéopôle dir. Bertollie | 135BPB | 🚶 |
 | Berthéopôle dir. Stensele | 135BPS | 🚶 |
@@ -288,7 +288,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 
 ## Line / Ligne ![920403856863686746](https://github.com/user-attachments/assets/5a284e55-3565-4e84-b3b1-0c0592eebf0c)
 
-**Status / État:** 🚧 Service uniquement assurée entre Portvaillant et Nanteuil <RER> pour cause de travaux.
+⚠️ Exploitation indisponible sur les véhicule Heuliez / Operation unavailable on Heuliez vehicles
 
 | Service | Code | Status / État |
 |---------|------|---------------|
