@@ -187,7 +187,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 |--------------|-------------|--------------|---------------|
 | 265 | Bertollie RER | 265BR | 🔄 |
 | 265 | Boissy-Saint-Léger RER | 265SL | 🚧 |
-| 265 | Bismarcl - Courboules dir. Bertollie | 265BCG | 🚧 |
+| 265 | Bismarck - Courboules dir. Bertollie | 265BCG | 🚧 |
 | 265 | Bismarck - Courboules dir. Boissy | 265BCL | 🔄 |
 | 265 | Coeur de Berthée | 265BM | 🚧 |
 | 265 | Courboules - Tilsitt | 265CT | 🚧 |
