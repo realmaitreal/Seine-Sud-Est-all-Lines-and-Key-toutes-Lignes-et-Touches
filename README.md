@@ -50,7 +50,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 ![1072190012814278697](https://github.com/user-attachments/assets/eb15b249-6ea4-460e-9b54-8bfa9e0d4935)
 
 
-**Status / État:** ✅ Normal service / Service normal
+**Status / État:** ✅ Service normal
 
 **Video Guide / Guide Vidéo:** [How to drive Line 134 / Comment conduire la Ligne 134]
 
@@ -71,7 +71,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 ![996933728175652945](https://github.com/user-attachments/assets/8c445f6d-f4f2-4335-a272-a50c10fac167)
 
 
-**Status / État:** ✅ Normal service / Service normal (with some routes under construction / avec certains itinéraires en construction)
+**Status / État:** 🚧 Service assuré entre Bertollie <RER> et Berthée - Bismarck - Courboules pour cause de travaux.
 
 **Video Guide / Guide Vidéo:** [How to drive Line 135 / Comment conduire la Ligne 135]
 
@@ -117,7 +117,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 ![919108162206982164](https://github.com/user-attachments/assets/8f1a821f-adaf-4e6c-8724-dd315e877f7c)
 
 
-**Status / État:** ✅ Normal service / Service normal (with some routes under construction / avec certains itinéraires en construction)
+**Status / État:** 🚧 Service assuré entre Bertollie <RER> et Port-Perret Village pour cause de travaux.
 
 **Video Guide / Guide Vidéo:** [How to drive Line 142 / Comment conduire la Ligne 142]
 
@@ -138,8 +138,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 
 ![1207095109426872420](https://github.com/user-attachments/assets/dda0fce1-3ec2-4100-ab1f-6b244649eceb)
 
-
-**Status / État:** 🔄 Detour / Déviation
+**Status / État:** 🚧 Service assuré entre Bertollie <RER> ⥋ Allée Royale
 
 **Video Guide / Guide Vidéo:** [How to drive Line 149 / Comment conduire la Ligne 149]
 
@@ -235,7 +234,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 
 ![HY30Qaz](https://github.com/user-attachments/assets/d6a1f39e-0a1e-40d4-b284-1bcd900c94f4)
 
-**Status / État:** ✅ Normal service / Service normal (with some routes in partial service / avec certains itinéraires en service partiel)
+**Status / État:** ✅ Normal service / Service normal
 
 **Video Guide / Guide Vidéo:** [How to drive Line 257 / Comment conduire la Ligne 257]
 
@@ -255,7 +254,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 
 ## Line / Ligne ![1207095111276691476](https://github.com/user-attachments/assets/6a97cb21-3230-4a8d-ba99-640c4debb561)
 
-**Status / État:** 🔄 Detour / Déviation (with some routes under construction / avec certains itinéraires en construction)
+**Status / État:** 🔄 Diversion / Déviation: Les arrêts situé entre Pont de Bertollie et Bismarck - Courboules ne sont pas desservis dans les 2 sens. Reprise estimée : Fin 2024
 
 **Video Guide / Guide Vidéo:** [How to drive Line 265 / Comment conduire la Ligne 265]
 
@@ -287,7 +286,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 
 ![mXMO42k](https://github.com/user-attachments/assets/6c64ba24-cbe1-4717-8e79-38ee4f2b7656)
 
-**Status / État:** ✅ Normal service / Service normal (with some routes under construction / avec certains itinéraires en construction)
+**Status / État:** 🚧 Service uniquement assurée entre Bertollie <RER> ⥋ Houssaye–De Gaulle pour cause de travaux.
 
 **Video Guide / Guide Vidéo:** [How to drive Line 315 / Comment conduire la Ligne 315]
 
@@ -307,7 +306,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 
 ![W7EIeVx](https://github.com/user-attachments/assets/484f3baa-65f5-4562-9dee-0741f09f6291)
 
-**Status / État:** ✅ Normal service / Service normal (with some routes in partial service / avec certains itinéraires en service partiel)
+**Status / État:** ✅ Normal service / Service normal
 
 **Video Guide / Guide Vidéo:** [How to drive Line 316 / Comment conduire la Ligne 316]
 
@@ -325,7 +324,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 
 ## Line / Ligne ![920403856863686746](https://github.com/user-attachments/assets/5a284e55-3565-4e84-b3b1-0c0592eebf0c)
 
-**Status / État:** ✅ Normal service / Service normal (with some routes under construction / avec certains itinéraires en construction)
+**Status / État:** 🚧 Service uniquement assurée entre Portvaillant et Nanteuil <RER> pour cause de travaux.
 
 **Video Guide / Guide Vidéo:** [How to drive Line 371 / Comment conduire la Ligne 371]
 
@@ -337,7 +336,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 
 ## Line / Ligne ![1093934754543435806](https://github.com/user-attachments/assets/7df143fd-702d-4e8e-b649-e5cae6eb1133)
 
-**Status / État:** 🔄 Detour / Déviation (with some routes in partial service / avec certains itinéraires en service partiel)
+**Status / État:** ❌ Les arrêts entre Pont de Narbérale et Jaurès - Poirée sont en construction. ⚠️ Une partie de la ligne circule sur de l'herbe pour cause de travaux.
 
 **Video Guide / Guide Vidéo:** [How to drive Line 376 / Comment conduire la Ligne 376]
 
@@ -354,30 +353,24 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 
 ### Line / Ligne ![996933734165127229](https://github.com/user-attachments/assets/d5edb8af-0934-4c4f-88b8-26116715e2ad)
 
-**Status / État:** ✅ Normal service / Service normal (with some routes under construction / avec certains itinéraires en construction)
-
 **Video Guide / Guide Vidéo:** [How to drive Line N72 / Comment conduire la Ligne N72]
 
 #### Services on this line / Services sur cette ligne:
 
 1. **Arlande Préfecture** (787PS) - ✅
-2. **Créteil Préfecture** (787CPV) - 🚧
+2. **Créteil Préfecture** (787CPV) - 🚧 En construction
 3. **Bertollie RER dir. Créteil** (787BRC) - ✅
 
 ### Line / Ligne ![996933732881682464](https://github.com/user-attachments/assets/785d8da8-cc5e-4a6a-8be2-bf9f88f690aa)
-
-**Status / État:** ✅ Normal service / Service normal (with some routes under construction / avec certains itinéraires en construction)
 
 **Video Guide / Guide Vidéo:** [How to drive Line N76 / Comment conduire la Ligne N76]
 
 #### Services on this line / Services sur cette ligne:
 
-1. **Le Plessins Mendinel RER** (786LP) - ✅
-2. **Boissy Saint Léger RER** (786BL) - 🚧
+1. **Le Plessins Mendinel RER** (786LP) - 🟨 Partie du service sur de l'herbe
+2. **Boissy Saint Léger RER** (786BL) - 🚧 En construction
 3. **Bertollie RER** (786BRP) - ✅
 4. **Rosenberg** (786RB) - ✅
-
-⚠️ Note: N76 codes now start with "786" instead of "N76" / Les codes N76 commencent maintenant par "786" au lieu de "N76"
 
 ## 🥚 New Real Bus Lines / Lignes de Bus Réelles
 
