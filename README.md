@@ -326,7 +326,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 
 | Service | Code | Status / État |
 |---------|------|---------------|
-| Le Plessins Mendinel RER | 786LP | 🟨 Partie du service sur de l'herbe |
+| Le Plessins Mendinel RER | 786PM | 🟨 Partie du service sur de l'herbe |
 | Boissy Saint Léger RER | 786BL | 🚧 En construction |
 | Bertollie RER | 786BRP | ✅ |
 | Rosenberg | 786RB | ✅ |
