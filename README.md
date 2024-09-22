@@ -66,6 +66,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 ## Line / Ligne 135
 
 ![996933728175652945](https://github.com/user-attachments/assets/8c445f6d-f4f2-4335-a272-a50c10fac167)
+![image](https://github.com/user-attachments/assets/2d87817c-d669-423b-abbe-88a809eaa903)
 
 **Status / État:** 🚧 Service assuré entre Bertollie <RER> et Berthée - Bismarck - Courboules pour cause de travaux.
 
@@ -139,6 +140,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 | Rue de Bréon | 149RB | 🚶 |
 
 ## Line / Ligne ![947972356331159552](https://github.com/user-attachments/assets/d388d408-3d3c-4d51-87cc-695eda6e87bf)
+![Capture d'écran 2024-09-22 125702](https://github.com/user-attachments/assets/91d44e4c-1617-4492-8430-9716002290d7)
 
 **Status / État:** 🚧 Under construction / En construction
 
@@ -227,6 +229,7 @@ Ce guide sera régulièrement mis à jour. Les contributions sont toujours les b
 | Résistance - J-Curie | 257RN | 🚶 |
 
 ## Line / Ligne ![1207095111276691476](https://github.com/user-attachments/assets/6a97cb21-3230-4a8d-ba99-640c4debb561)
+![image](https://github.com/user-attachments/assets/e5bb57f1-2367-4341-8399-90e195331192)
 
 **Status / État:** 🔄 Diversion / Déviation: Les arrêts situé entre Pont de Bertollie et Bismarck - Courboules ne sont pas desservis dans les 2 sens. Reprise estimée : Fin 2024
 
